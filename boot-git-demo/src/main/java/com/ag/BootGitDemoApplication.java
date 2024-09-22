@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class BootGitDemoApplication {
 
 	public static void main(String[] args) {
+		// added comments for testing purpose
 		SpringApplication.run(BootGitDemoApplication.class, args);
 	}
 
